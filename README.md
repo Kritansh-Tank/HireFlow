@@ -193,6 +193,25 @@ data: {"type":"COMPLETE","status":"COMPLETED","result":{...}}
 
 ---
 
+## User Interface
+- Search
+  
+  ![Search](assets/search.png)
+  
+- Jobs
+
+  ![Jobs](assets/jobs.png)
+  
+- Applications
+
+  ![Applications](assets/applications.png)
+  
+- Profile
+
+  ![Profile](assets/profile.png)
+
+---
+
 ## ⚡ Quick Start
 
 ### Prerequisites
