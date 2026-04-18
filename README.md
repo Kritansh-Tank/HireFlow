@@ -223,8 +223,8 @@ data: {"type":"COMPLETE","status":"COMPLETED","result":{...}}
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/hireflow.git
-   cd hireflow
+   git clone https://github.com/Kritansh-Tank/HireFlow.git
+   cd HireFlow
    ```
 
 2. **Install dependencies:**
